@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1",
+  "type": "process",
+  "name": "PETG High Detail (bedslinger_midrange)",
+  "material": "PETG",
+  "target_printer_class": "bedslinger_midrange",
+  "layer_height_mm": 0.12,
+  "wall_line_count": 3,
+  "top_bottom_layers": 5,
+  "infill_density_percent": 20,
+  "infill_pattern": "gyroid",
+  "speed_mm_per_s": {
+    "perimeter": 40,
+    "infill": 60,
+    "travel": 100
+  },
+  "supports": "on_overhangs",
+  "adhesion": "skirt",
+  "max_accel_mm_per_s2": 2000,
+  "notes": "Generic high detail profile for PETG on bedslinger_midrange machines. Use this as a starting point and tune flow, accelerations, and temps per printer."
+}
