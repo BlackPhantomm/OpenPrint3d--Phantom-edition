@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1",
+  "type": "printer",
+  "manufacturer": "Prusa Research",
+  "model": "Core-ONE",
+  "name": "Original Prusa CORE ONE",
+  "family": "prusa_cartesian",
+  "technology": "FFF",
+  "build_volume_mm": {
+    "x": 250,
+    "y": 210,
+    "z": 210
+  },
+  "heated_bed": true,
+  "max_nozzle_temp_c": 300,
+  "max_bed_temp_c": 120,
+  "defaults": {
+    "nozzle_diameter_mm": 0.4,
+    "filament_diameter_mm": 1.75
+  },
+  "notes": "Baseline profile for Prusa FDM; map into PrusaSlicer or other slicers as needed."
+}
