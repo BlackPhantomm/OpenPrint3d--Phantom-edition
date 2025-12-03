@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "type": "filament",
+  "brand": "Elegoo",
+  "name": "ABS",
+  "material": "ABS",
+  "color": "Generic",
+  "print_settings": {
+    "nozzle_temp_c": {
+      "min": 240,
+      "max": 260
+    },
+    "bed_temp_c": {
+      "min": 90,
+      "max": 110
+    },
+    "fan_speed_percent": 0
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+}

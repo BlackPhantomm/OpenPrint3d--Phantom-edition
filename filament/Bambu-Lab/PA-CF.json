@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "type": "filament",
+  "brand": "Bambu Lab",
+  "name": "PA-CF",
+  "material": "PA-CF",
+  "color": "Generic",
+  "print_settings": {
+    "nozzle_temp_c": {
+      "min": 260,
+      "max": 290
+    },
+    "bed_temp_c": {
+      "min": 90,
+      "max": 110
+    },
+    "fan_speed_percent": 0
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+}

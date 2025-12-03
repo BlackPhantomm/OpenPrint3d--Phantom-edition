@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "type": "filament",
+  "brand": "Polymaker",
+  "name": "PC Blend",
+  "material": "PC",
+  "color": "Generic",
+  "print_settings": {
+    "nozzle_temp_c": {
+      "min": 255,
+      "max": 280
+    },
+    "bed_temp_c": {
+      "min": 95,
+      "max": 110
+    },
+    "fan_speed_percent": 30
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+}

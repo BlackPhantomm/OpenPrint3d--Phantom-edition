@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "type": "filament",
+  "brand": "QIDI",
+  "name": "PLA-CF",
+  "material": "PLA-CF",
+  "color": "Generic",
+  "print_settings": {
+    "nozzle_temp_c": {
+      "min": 220,
+      "max": 245
+    },
+    "bed_temp_c": {
+      "min": 50,
+      "max": 70
+    },
+    "fan_speed_percent": 60
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "type": "filament",
+  "brand": "Hatchbox",
+  "name": "TPU",
+  "material": "TPU",
+  "color": "Generic",
+  "print_settings": {
+    "nozzle_temp_c": {
+      "min": 215,
+      "max": 235
+    },
+    "bed_temp_c": {
+      "min": 40,
+      "max": 60
+    },
+    "fan_speed_percent": 60
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+}
