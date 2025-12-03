@@ -1,5 +1,7 @@
 # OpenPrint3d--Phantom-edition
-This repository is not an official OpenPrint3D project. OpenPrint3D is a community-driven initiative, and I take no credit for the original concept, tools, or ecosystem.
+This repository is not an official OpenPrint3D project. OpenPrint3D is a community-driven initiative, and I take no credit for the original concept, tools, or ecosystem. 
+
+I give credit where it is due - https://github.com/OpenPrint3D/OpenPrint3D
 
 This repo simply contains the profiles, configurations, and tweaks that I have put together based on my own research and testing. My goal is to make it easier for others to get up and running and hopefully provide something genuinely useful to the community.
 
