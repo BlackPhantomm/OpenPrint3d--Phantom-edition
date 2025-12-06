@@ -1,20 +1,36 @@
 {
-  "schema_version": "0.1",
-  "type": "filament",
+  "op3d_schema": "filament",
+  "op3d_schema_version": "0.1.0",
   "brand": "Polymaker",
   "name": "PolyMax PETG",
   "material": "PETG",
   "color": "Generic",
-  "print_settings": {
-    "nozzle_temp_c": {
-      "min": 240,
-      "max": 260
-    },
-    "bed_temp_c": {
-      "min": 75,
-      "max": 90
-    },
-    "fan_speed_percent": 30
+  "id": "Polymaker/PolyMax-PETG",
+  "nozzle": {
+    "min": 240,
+    "max": 260
   },
-  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+  "bed": {
+    "min": 75,
+    "max": 90
+  },
+  "fan": {
+    "recommended": 30
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "filament",
+    "print_settings": {
+      "nozzle_temp_c": {
+        "min": 240,
+        "max": 260
+      },
+      "bed_temp_c": {
+        "min": 75,
+        "max": 90
+      },
+      "fan_speed_percent": 30
+    }
+  }
 }

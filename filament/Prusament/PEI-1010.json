@@ -1,20 +1,36 @@
 {
-  "schema_version": "0.1",
-  "type": "filament",
+  "op3d_schema": "filament",
+  "op3d_schema_version": "0.1.0",
   "brand": "Prusament",
   "name": "PEI 1010",
   "material": "PEI",
   "color": "Generic",
-  "print_settings": {
-    "nozzle_temp_c": {
-      "min": 330,
-      "max": 360
-    },
-    "bed_temp_c": {
-      "min": 110,
-      "max": 120
-    },
-    "fan_speed_percent": 0
+  "id": "Prusament/PEI-1010",
+  "nozzle": {
+    "min": 330,
+    "max": 360
   },
-  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+  "bed": {
+    "min": 110,
+    "max": 120
+  },
+  "fan": {
+    "recommended": 0
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "filament",
+    "print_settings": {
+      "nozzle_temp_c": {
+        "min": 330,
+        "max": 360
+      },
+      "bed_temp_c": {
+        "min": 110,
+        "max": 120
+      },
+      "fan_speed_percent": 0
+    }
+  }
 }

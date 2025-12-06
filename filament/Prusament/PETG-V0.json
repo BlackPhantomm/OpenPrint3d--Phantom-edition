@@ -1,20 +1,36 @@
 {
-  "schema_version": "0.1",
-  "type": "filament",
+  "op3d_schema": "filament",
+  "op3d_schema_version": "0.1.0",
   "brand": "Prusament",
   "name": "PETG V0",
   "material": "PETG",
   "color": "Generic",
-  "print_settings": {
-    "nozzle_temp_c": {
-      "min": 250,
-      "max": 270
-    },
-    "bed_temp_c": {
-      "min": 80,
-      "max": 100
-    },
-    "fan_speed_percent": 30
+  "id": "Prusament/PETG-V0",
+  "nozzle": {
+    "min": 250,
+    "max": 270
   },
-  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+  "bed": {
+    "min": 80,
+    "max": 100
+  },
+  "fan": {
+    "recommended": 30
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "filament",
+    "print_settings": {
+      "nozzle_temp_c": {
+        "min": 250,
+        "max": 270
+      },
+      "bed_temp_c": {
+        "min": 80,
+        "max": 100
+      },
+      "fan_speed_percent": 30
+    }
+  }
 }

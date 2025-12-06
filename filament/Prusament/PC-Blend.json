@@ -1,20 +1,36 @@
 {
-  "schema_version": "0.1",
-  "type": "filament",
+  "op3d_schema": "filament",
+  "op3d_schema_version": "0.1.0",
   "brand": "Prusament",
   "name": "PC Blend",
   "material": "PC",
   "color": "Generic",
-  "print_settings": {
-    "nozzle_temp_c": {
-      "min": 265,
-      "max": 285
-    },
-    "bed_temp_c": {
-      "min": 95,
-      "max": 110
-    },
-    "fan_speed_percent": 30
+  "id": "Prusament/PC-Blend",
+  "nozzle": {
+    "min": 265,
+    "max": 285
   },
-  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+  "bed": {
+    "min": 95,
+    "max": 110
+  },
+  "fan": {
+    "recommended": 30
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "filament",
+    "print_settings": {
+      "nozzle_temp_c": {
+        "min": 265,
+        "max": 285
+      },
+      "bed_temp_c": {
+        "min": 95,
+        "max": 110
+      },
+      "fan_speed_percent": 30
+    }
+  }
 }

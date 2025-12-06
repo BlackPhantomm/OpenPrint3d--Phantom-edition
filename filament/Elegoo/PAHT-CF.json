@@ -1,20 +1,36 @@
 {
-  "schema_version": "0.1",
-  "type": "filament",
+  "op3d_schema": "filament",
+  "op3d_schema_version": "0.1.0",
   "brand": "Elegoo",
   "name": "PAHT-CF",
   "material": "PA-CF",
   "color": "Generic",
-  "print_settings": {
-    "nozzle_temp_c": {
-      "min": 260,
-      "max": 290
-    },
-    "bed_temp_c": {
-      "min": 90,
-      "max": 110
-    },
-    "fan_speed_percent": 0
+  "id": "Elegoo/PAHT-CF",
+  "nozzle": {
+    "min": 260,
+    "max": 290
   },
-  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+  "bed": {
+    "min": 90,
+    "max": 110
+  },
+  "fan": {
+    "recommended": 0
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "filament",
+    "print_settings": {
+      "nozzle_temp_c": {
+        "min": 260,
+        "max": 290
+      },
+      "bed_temp_c": {
+        "min": 90,
+        "max": 110
+      },
+      "fan_speed_percent": 0
+    }
+  }
 }

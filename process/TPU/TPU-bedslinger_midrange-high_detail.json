@@ -1,21 +1,53 @@
 {
-  "schema_version": "0.1",
-  "type": "process",
+  "op3d_schema": "process",
+  "op3d_schema_version": "0.1.0",
   "name": "TPU High Detail (bedslinger_midrange)",
-  "material": "TPU",
-  "target_printer_class": "bedslinger_midrange",
-  "layer_height_mm": 0.12,
-  "wall_line_count": 3,
-  "top_bottom_layers": 5,
-  "infill_density_percent": 20,
-  "infill_pattern": "gyroid",
-  "speed_mm_per_s": {
-    "perimeter": 40,
+  "id": "TPU/TPU-High-Detail-bedslinger-midrange",
+  "intent": "flexible",
+  "layer_height": {
+    "default": 0.12
+  },
+  "wall_settings": {
+    "wall_count": 3,
+    "top_layers": 5,
+    "bottom_layers": 5
+  },
+  "infill": {
+    "density_default": 20,
+    "recommended_patterns": [
+      "gyroid"
+    ]
+  },
+  "speed": {
+    "outer_wall": 40,
     "infill": 60,
     "travel": 100
   },
-  "supports": "on_overhangs",
-  "adhesion": "skirt",
-  "max_accel_mm_per_s2": 2000,
-  "notes": "Generic high detail profile for TPU on bedslinger_midrange machines. Use this as a starting point and tune flow, accelerations, and temps per printer."
+  "accel": {
+    "default": 2000
+  },
+  "supports": {
+    "enabled_default": true
+  },
+  "adhesion": {
+    "default_type": "skirt"
+  },
+  "notes": "Generic high detail profile for TPU on bedslinger_midrange machines. Use this as a starting point and tune flow, accelerations, and temps per printer.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "process",
+    "material": "TPU",
+    "target_printer_class": "bedslinger_midrange",
+    "layer_height_mm": 0.12,
+    "wall_line_count": 3,
+    "top_bottom_layers": 5,
+    "infill_density_percent": 20,
+    "infill_pattern": "gyroid",
+    "speed_mm_per_s": {
+      "perimeter": 40,
+      "infill": 60,
+      "travel": 100
+    },
+    "max_accel_mm_per_s2": 2000
+  }
 }

@@ -1,22 +1,52 @@
 {
-  "schema_version": "0.1",
-  "type": "printer",
+  "op3d_schema": "printer",
+  "op3d_schema_version": "0.1.0",
   "manufacturer": "Elegoo",
   "model": "OrangeStorm-Giga",
-  "name": "Elegoo OrangeStorm Giga",
-  "family": "elegoo_bedslinger",
-  "technology": "FFF",
-  "build_volume_mm": {
+  "id": "Elegoo/OrangeStorm-Giga",
+  "build_volume": {
     "x": 800,
     "y": 800,
     "z": 1000
   },
-  "heated_bed": true,
-  "max_nozzle_temp_c": 300,
-  "max_bed_temp_c": 120,
-  "defaults": {
-    "nozzle_diameter_mm": 0.4,
-    "filament_diameter_mm": 1.75
+  "kinematics": "bed_slinger",
+  "axes": {
+    "x": {},
+    "y": {},
+    "z": {}
   },
-  "notes": "Elegoo FDM baseline; verify details for your exact hardware revision."
+  "extruders": [
+    {
+      "id": "tool0",
+      "nozzle_diameter": 0.4,
+      "max_temp": 300
+    }
+  ],
+  "bed": {
+    "heated": true,
+    "max_temp": 120
+  },
+  "firmware": {
+    "flavor": "other"
+  },
+  "notes": "Elegoo FDM baseline; verify details for your exact hardware revision.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "printer",
+    "name": "Elegoo OrangeStorm Giga",
+    "family": "elegoo_bedslinger",
+    "technology": "FFF",
+    "build_volume_mm": {
+      "x": 800,
+      "y": 800,
+      "z": 1000
+    },
+    "heated_bed": true,
+    "max_nozzle_temp_c": 300,
+    "max_bed_temp_c": 120,
+    "defaults": {
+      "nozzle_diameter_mm": 0.4,
+      "filament_diameter_mm": 1.75
+    }
+  }
 }

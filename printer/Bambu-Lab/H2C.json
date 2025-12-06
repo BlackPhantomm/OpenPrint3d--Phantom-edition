@@ -1,22 +1,52 @@
 {
-  "schema_version": "0.1",
-  "type": "printer",
+  "op3d_schema": "printer",
+  "op3d_schema_version": "0.1.0",
   "manufacturer": "Bambu Lab",
   "model": "H2C",
-  "name": "Bambu Lab H2C",
-  "family": "bambu_corexy",
-  "technology": "FFF",
-  "build_volume_mm": {
+  "id": "Bambu Lab/H2C",
+  "build_volume": {
     "x": 320,
     "y": 320,
     "z": 320
   },
-  "heated_bed": true,
-  "max_nozzle_temp_c": 320,
-  "max_bed_temp_c": 120,
-  "defaults": {
-    "nozzle_diameter_mm": 0.4,
-    "filament_diameter_mm": 1.75
+  "kinematics": "corexy",
+  "axes": {
+    "x": {},
+    "y": {},
+    "z": {}
   },
-  "notes": "High\u2011speed CoreXY Bambu platform; tuned for AMS-style multi\u2011material on some models."
+  "extruders": [
+    {
+      "id": "tool0",
+      "nozzle_diameter": 0.4,
+      "max_temp": 320
+    }
+  ],
+  "bed": {
+    "heated": true,
+    "max_temp": 120
+  },
+  "firmware": {
+    "flavor": "other"
+  },
+  "notes": "High‑speed CoreXY Bambu platform; tuned for AMS-style multi‑material on some models.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "printer",
+    "name": "Bambu Lab H2C",
+    "family": "bambu_corexy",
+    "technology": "FFF",
+    "build_volume_mm": {
+      "x": 320,
+      "y": 320,
+      "z": 320
+    },
+    "heated_bed": true,
+    "max_nozzle_temp_c": 320,
+    "max_bed_temp_c": 120,
+    "defaults": {
+      "nozzle_diameter_mm": 0.4,
+      "filament_diameter_mm": 1.75
+    }
+  }
 }

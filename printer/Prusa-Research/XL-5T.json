@@ -1,22 +1,52 @@
 {
-  "schema_version": "0.1",
-  "type": "printer",
+  "op3d_schema": "printer",
+  "op3d_schema_version": "0.1.0",
   "manufacturer": "Prusa Research",
   "model": "XL-5T",
-  "name": "Original Prusa XL (5-Tool)",
-  "family": "prusa_cartesian",
-  "technology": "FFF",
-  "build_volume_mm": {
+  "id": "Prusa Research/XL-5T",
+  "build_volume": {
     "x": 360,
     "y": 360,
     "z": 360
   },
-  "heated_bed": true,
-  "max_nozzle_temp_c": 300,
-  "max_bed_temp_c": 120,
-  "defaults": {
-    "nozzle_diameter_mm": 0.4,
-    "filament_diameter_mm": 1.75
+  "kinematics": "other",
+  "axes": {
+    "x": {},
+    "y": {},
+    "z": {}
   },
-  "notes": "Baseline profile for Prusa FDM; map into PrusaSlicer or other slicers as needed."
+  "extruders": [
+    {
+      "id": "tool0",
+      "nozzle_diameter": 0.4,
+      "max_temp": 300
+    }
+  ],
+  "bed": {
+    "heated": true,
+    "max_temp": 120
+  },
+  "firmware": {
+    "flavor": "other"
+  },
+  "notes": "Baseline profile for Prusa FDM; map into PrusaSlicer or other slicers as needed.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "printer",
+    "name": "Original Prusa XL (5-Tool)",
+    "family": "prusa_cartesian",
+    "technology": "FFF",
+    "build_volume_mm": {
+      "x": 360,
+      "y": 360,
+      "z": 360
+    },
+    "heated_bed": true,
+    "max_nozzle_temp_c": 300,
+    "max_bed_temp_c": 120,
+    "defaults": {
+      "nozzle_diameter_mm": 0.4,
+      "filament_diameter_mm": 1.75
+    }
+  }
 }

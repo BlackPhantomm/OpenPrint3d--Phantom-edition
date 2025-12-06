@@ -1,21 +1,53 @@
 {
-  "schema_version": "0.1",
-  "type": "process",
+  "op3d_schema": "process",
+  "op3d_schema_version": "0.1.0",
   "name": "PLA Speed (corexy_highspeed)",
-  "material": "PLA",
-  "target_printer_class": "corexy_highspeed",
-  "layer_height_mm": 0.28,
-  "wall_line_count": 3,
-  "top_bottom_layers": 5,
-  "infill_density_percent": 20,
-  "infill_pattern": "gyroid",
-  "speed_mm_per_s": {
-    "perimeter": 300,
+  "id": "PLA/PLA-Speed-corexy-highspeed",
+  "intent": "draft",
+  "layer_height": {
+    "default": 0.28
+  },
+  "wall_settings": {
+    "wall_count": 3,
+    "top_layers": 5,
+    "bottom_layers": 5
+  },
+  "infill": {
+    "density_default": 20,
+    "recommended_patterns": [
+      "gyroid"
+    ]
+  },
+  "speed": {
+    "outer_wall": 300,
     "infill": 340,
     "travel": 420
   },
-  "supports": "on_overhangs",
-  "adhesion": "skirt",
-  "max_accel_mm_per_s2": 8000,
-  "notes": "Generic speed profile for PLA on corexy_highspeed machines. Use this as a starting point and tune flow, accelerations, and temps per printer."
+  "accel": {
+    "default": 8000
+  },
+  "supports": {
+    "enabled_default": true
+  },
+  "adhesion": {
+    "default_type": "skirt"
+  },
+  "notes": "Generic speed profile for PLA on corexy_highspeed machines. Use this as a starting point and tune flow, accelerations, and temps per printer.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "process",
+    "material": "PLA",
+    "target_printer_class": "corexy_highspeed",
+    "layer_height_mm": 0.28,
+    "wall_line_count": 3,
+    "top_bottom_layers": 5,
+    "infill_density_percent": 20,
+    "infill_pattern": "gyroid",
+    "speed_mm_per_s": {
+      "perimeter": 300,
+      "infill": 340,
+      "travel": 420
+    },
+    "max_accel_mm_per_s2": 8000
+  }
 }

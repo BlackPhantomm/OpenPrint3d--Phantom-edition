@@ -1,20 +1,36 @@
 {
-  "schema_version": "0.1",
-  "type": "filament",
+  "op3d_schema": "filament",
+  "op3d_schema_version": "0.1.0",
   "brand": "Hatchbox",
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "print_settings": {
-    "nozzle_temp_c": {
-      "min": 235,
-      "max": 255
-    },
-    "bed_temp_c": {
-      "min": 90,
-      "max": 110
-    },
-    "fan_speed_percent": 0
+  "id": "Hatchbox/ABS",
+  "nozzle": {
+    "min": 235,
+    "max": 255
   },
-  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color."
+  "bed": {
+    "min": 90,
+    "max": 110
+  },
+  "fan": {
+    "recommended": 0
+  },
+  "notes": "Generic starting profile for this filament family; tune temps and flow per printer and color.",
+  "x_legacy": {
+    "schema_version": "0.1",
+    "type": "filament",
+    "print_settings": {
+      "nozzle_temp_c": {
+        "min": 235,
+        "max": 255
+      },
+      "bed_temp_c": {
+        "min": 90,
+        "max": 110
+      },
+      "fan_speed_percent": 0
+    }
+  }
 }
