@@ -5,7 +5,7 @@
   <br>
   
   ### The Community Driven 3D Printing Profile Library
-  **Maintained & Optimized by BlackPhantomm**
+  **Maintained & Optimized by BlckPhantom**
   
   ![Status](https://img.shields.io/badge/Status-Active-brightgreen)<img width="3168" height="1344" alt="phantom_logo png" src="https://github.com/user-attachments/assets/66c81ded-cbfc-4f02-a51f-734bae97be07" />
 
