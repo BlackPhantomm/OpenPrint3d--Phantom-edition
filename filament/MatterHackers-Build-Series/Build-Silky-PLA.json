@@ -5,7 +5,7 @@
   "name": "Build Silky PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "MatterHackers Build Series/Build-Silky-PLA",
+  "id": "phantom_MatterHackers Build Series/Build-Silky-PLA",
   "nozzle": {
     "min": 205,
     "max": 225

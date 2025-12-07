@@ -5,7 +5,7 @@
   "name": "PolyLite ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Polymaker/PolyLite-ASA",
+  "id": "phantom_Polymaker/PolyLite-ASA",
   "nozzle": {
     "min": 240,
     "max": 260

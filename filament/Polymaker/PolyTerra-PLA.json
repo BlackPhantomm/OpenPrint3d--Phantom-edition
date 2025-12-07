@@ -5,7 +5,7 @@
   "name": "PolyTerra PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Polymaker/PolyTerra-PLA",
+  "id": "phantom_Polymaker/PolyTerra-PLA",
   "nozzle": {
     "min": 190,
     "max": 215

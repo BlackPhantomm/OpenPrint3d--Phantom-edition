@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Hatchbox/ABS",
+  "id": "phantom_Hatchbox/ABS",
   "nozzle": {
     "min": 235,
     "max": 255

@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "ABS Quality (bedslinger_midrange)",
-  "id": "ABS/ABS-Quality-bedslinger-midrange",
+  "id": "phantom_ABS/ABS-Quality-bedslinger-midrange",
   "intent": "quality",
   "layer_height": {
     "default": 0.16

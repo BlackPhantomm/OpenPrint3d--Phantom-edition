@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Elegoo",
   "model": "Centauri-Carbon",
-  "id": "Elegoo/Centauri-Carbon",
+  "id": "phantom_Elegoo/Centauri-Carbon",
   "build_volume": {
     "x": 256,
     "y": 256,

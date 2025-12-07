@@ -5,7 +5,7 @@
   "name": "Build ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "MatterHackers Build Series/Build-ASA",
+  "id": "phantom_MatterHackers Build Series/Build-ASA",
   "nozzle": {
     "min": 250,
     "max": 270

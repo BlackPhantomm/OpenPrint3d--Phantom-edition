@@ -5,7 +5,7 @@
   "name": "PLA Matte",
   "material": "PLA",
   "color": "Generic",
-  "id": "Elegoo/PLA-Matte",
+  "id": "phantom_Elegoo/PLA-Matte",
   "nozzle": {
     "min": 205,
     "max": 225

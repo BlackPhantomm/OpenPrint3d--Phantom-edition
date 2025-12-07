@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "QIDI Tech",
   "model": "Q1-Pro",
-  "id": "QIDI Tech/Q1-Pro",
+  "id": "phantom_QIDI Tech/Q1-Pro",
   "build_volume": {
     "x": 245,
     "y": 245,

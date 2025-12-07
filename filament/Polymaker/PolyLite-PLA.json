@@ -5,7 +5,7 @@
   "name": "PolyLite PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Polymaker/PolyLite-PLA",
+  "id": "phantom_Polymaker/PolyLite-PLA",
   "nozzle": {
     "min": 195,
     "max": 215

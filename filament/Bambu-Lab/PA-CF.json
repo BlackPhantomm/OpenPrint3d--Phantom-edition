@@ -5,7 +5,7 @@
   "name": "PA-CF",
   "material": "PA-CF",
   "color": "Generic",
-  "id": "Bambu Lab/PA-CF",
+  "id": "phantom_Bambu Lab/PA-CF",
   "nozzle": {
     "min": 260,
     "max": 290

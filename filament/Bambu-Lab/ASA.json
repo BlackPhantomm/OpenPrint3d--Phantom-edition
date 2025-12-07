@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Bambu Lab/ASA",
+  "id": "phantom_Bambu Lab/ASA",
   "nozzle": {
     "min": 245,
     "max": 265

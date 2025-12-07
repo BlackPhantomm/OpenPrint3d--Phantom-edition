@@ -5,7 +5,7 @@
   "name": "PETG V0",
   "material": "PETG",
   "color": "Generic",
-  "id": "Prusament/PETG-V0",
+  "id": "phantom_Prusament/PETG-V0",
   "nozzle": {
     "min": 250,
     "max": 270

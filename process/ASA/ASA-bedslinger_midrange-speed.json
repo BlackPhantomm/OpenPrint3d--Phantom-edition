@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "ASA Speed (bedslinger_midrange)",
-  "id": "ASA/ASA-Speed-bedslinger-midrange",
+  "id": "phantom_ASA/ASA-Speed-bedslinger-midrange",
   "intent": "draft",
   "layer_height": {
     "default": 0.28

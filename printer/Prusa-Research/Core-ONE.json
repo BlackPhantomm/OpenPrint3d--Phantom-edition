@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Prusa Research",
   "model": "Core-ONE",
-  "id": "Prusa Research/Core-ONE",
+  "id": "phantom_Prusa Research/Core-ONE",
   "build_volume": {
     "x": 250,
     "y": 210,

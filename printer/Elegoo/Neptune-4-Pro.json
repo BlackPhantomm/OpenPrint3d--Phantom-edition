@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Elegoo",
   "model": "Neptune-4-Pro",
-  "id": "Elegoo/Neptune-4-Pro",
+  "id": "phantom_Elegoo/Neptune-4-Pro",
   "build_volume": {
     "x": 225,
     "y": 225,

@@ -5,7 +5,7 @@
   "name": "PETG-CF",
   "material": "PETG-CF",
   "color": "Generic",
-  "id": "Elegoo/PETG-CF",
+  "id": "phantom_Elegoo/PETG-CF",
   "nozzle": {
     "min": 245,
     "max": 265

@@ -5,7 +5,7 @@
   "name": "Hyper PC",
   "material": "PC",
   "color": "Generic",
-  "id": "Creality/Hyper-PC",
+  "id": "phantom_Creality/Hyper-PC",
   "nozzle": {
     "min": 260,
     "max": 285

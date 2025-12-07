@@ -5,7 +5,7 @@
   "name": "PLA Glow",
   "material": "PLA",
   "color": "Generic",
-  "id": "Overture/PLA-Glow",
+  "id": "phantom_Overture/PLA-Glow",
   "nozzle": {
     "min": 205,
     "max": 225

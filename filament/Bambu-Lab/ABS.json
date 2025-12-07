@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Bambu Lab/ABS",
+  "id": "phantom_Bambu Lab/ABS",
   "nozzle": {
     "min": 240,
     "max": 260

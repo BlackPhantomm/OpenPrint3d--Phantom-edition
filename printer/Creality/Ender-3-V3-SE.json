@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Creality",
   "model": "Ender-3-V3-SE",
-  "id": "Creality/Ender-3-V3-SE",
+  "id": "phantom_Creality/Ender-3-V3-SE",
   "build_volume": {
     "x": 220,
     "y": 220,

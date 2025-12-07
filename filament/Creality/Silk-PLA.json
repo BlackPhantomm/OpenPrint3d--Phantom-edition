@@ -5,7 +5,7 @@
   "name": "Silk PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Creality/Silk-PLA",
+  "id": "phantom_Creality/Silk-PLA",
   "nozzle": {
     "min": 205,
     "max": 225

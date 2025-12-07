@@ -5,7 +5,7 @@
   "name": "PAHT-CF",
   "material": "PA-CF",
   "color": "Generic",
-  "id": "Elegoo/PAHT-CF",
+  "id": "phantom_Elegoo/PAHT-CF",
   "nozzle": {
     "min": 260,
     "max": 290

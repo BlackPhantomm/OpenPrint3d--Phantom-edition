@@ -5,7 +5,7 @@
   "name": "ABS-GF25",
   "material": "ABS-GF",
   "color": "Generic",
-  "id": "QIDI/ABS-GF25",
+  "id": "phantom_QIDI/ABS-GF25",
   "nozzle": {
     "min": 255,
     "max": 275

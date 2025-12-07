@@ -5,7 +5,7 @@
   "name": "Build PETG",
   "material": "PETG",
   "color": "Generic",
-  "id": "MatterHackers Build Series/Build-PETG",
+  "id": "phantom_MatterHackers Build Series/Build-PETG",
   "nozzle": {
     "min": 235,
     "max": 255

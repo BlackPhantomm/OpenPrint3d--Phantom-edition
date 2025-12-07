@@ -5,7 +5,7 @@
   "name": "PolyLite ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Polymaker/PolyLite-ABS",
+  "id": "phantom_Polymaker/PolyLite-ABS",
   "nozzle": {
     "min": 235,
     "max": 255

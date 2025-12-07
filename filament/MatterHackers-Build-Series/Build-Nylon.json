@@ -5,7 +5,7 @@
   "name": "Build Nylon",
   "material": "PA",
   "color": "Generic",
-  "id": "MatterHackers Build Series/Build-Nylon",
+  "id": "phantom_MatterHackers Build Series/Build-Nylon",
   "nozzle": {
     "min": 250,
     "max": 270

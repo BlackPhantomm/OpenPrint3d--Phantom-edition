@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Anycubic/ASA",
+  "id": "phantom_Anycubic/ASA",
   "nozzle": {
     "min": 245,
     "max": 265

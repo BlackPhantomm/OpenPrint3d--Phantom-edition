@@ -5,7 +5,7 @@
   "name": "PC Blend",
   "material": "PC",
   "color": "Generic",
-  "id": "Polymaker/PC-Blend",
+  "id": "phantom_Polymaker/PC-Blend",
   "nozzle": {
     "min": 255,
     "max": 280

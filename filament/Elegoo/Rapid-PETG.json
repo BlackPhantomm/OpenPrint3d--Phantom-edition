@@ -5,7 +5,7 @@
   "name": "Rapid PETG",
   "material": "PETG",
   "color": "Generic",
-  "id": "Elegoo/Rapid-PETG",
+  "id": "phantom_Elegoo/Rapid-PETG",
   "nozzle": {
     "min": 235,
     "max": 255

@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Sovol/ABS",
+  "id": "phantom_Sovol/ABS",
   "nozzle": {
     "min": 240,
     "max": 260

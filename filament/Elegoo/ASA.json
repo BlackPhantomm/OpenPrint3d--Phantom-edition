@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Elegoo/ASA",
+  "id": "phantom_Elegoo/ASA",
   "nozzle": {
     "min": 245,
     "max": 265

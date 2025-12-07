@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Elegoo",
   "model": "Neptune-3-Max",
-  "id": "Elegoo/Neptune-3-Max",
+  "id": "phantom_Elegoo/Neptune-3-Max",
   "build_volume": {
     "x": 420,
     "y": 420,

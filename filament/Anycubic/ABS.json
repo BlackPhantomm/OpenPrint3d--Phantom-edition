@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Anycubic/ABS",
+  "id": "phantom_Anycubic/ABS",
   "nozzle": {
     "min": 240,
     "max": 260

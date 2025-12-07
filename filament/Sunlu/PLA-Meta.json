@@ -5,7 +5,7 @@
   "name": "PLA Meta",
   "material": "PLA",
   "color": "Generic",
-  "id": "Sunlu/PLA-Meta",
+  "id": "phantom_Sunlu/PLA-Meta",
   "nozzle": {
     "min": 190,
     "max": 210

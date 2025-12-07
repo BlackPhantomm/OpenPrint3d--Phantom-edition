@@ -5,7 +5,7 @@
   "name": "PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Overture/PLA",
+  "id": "phantom_Overture/PLA",
   "nozzle": {
     "min": 195,
     "max": 215

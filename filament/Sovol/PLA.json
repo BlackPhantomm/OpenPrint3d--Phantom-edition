@@ -5,7 +5,7 @@
   "name": "PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Sovol/PLA",
+  "id": "phantom_Sovol/PLA",
   "nozzle": {
     "min": 200,
     "max": 220

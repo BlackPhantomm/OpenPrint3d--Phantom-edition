@@ -5,7 +5,7 @@
   "name": "TPU",
   "material": "TPU",
   "color": "Generic",
-  "id": "Creality/TPU",
+  "id": "phantom_Creality/TPU",
   "nozzle": {
     "min": 215,
     "max": 235

@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Creality",
   "model": "K2-Pro",
-  "id": "Creality/K2-Pro",
+  "id": "phantom_Creality/K2-Pro",
   "build_volume": {
     "x": 300,
     "y": 300,

@@ -5,7 +5,7 @@
   "name": "PC",
   "material": "PC",
   "color": "Generic",
-  "id": "Bambu Lab/PC",
+  "id": "phantom_Bambu Lab/PC",
   "nozzle": {
     "min": 260,
     "max": 285

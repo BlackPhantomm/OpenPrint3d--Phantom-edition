@@ -5,7 +5,7 @@
   "name": "TPU",
   "material": "TPU",
   "color": "Generic",
-  "id": "Sovol/TPU",
+  "id": "phantom_Sovol/TPU",
   "nozzle": {
     "min": 215,
     "max": 235

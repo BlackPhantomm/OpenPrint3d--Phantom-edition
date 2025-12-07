@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Overture/ASA",
+  "id": "phantom_Overture/ASA",
   "nozzle": {
     "min": 245,
     "max": 265

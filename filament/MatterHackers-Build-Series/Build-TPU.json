@@ -5,7 +5,7 @@
   "name": "Build TPU",
   "material": "TPU",
   "color": "Generic",
-  "id": "MatterHackers Build Series/Build-TPU",
+  "id": "phantom_MatterHackers Build Series/Build-TPU",
   "nozzle": {
     "min": 215,
     "max": 235

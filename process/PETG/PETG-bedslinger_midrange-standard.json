@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "PETG Standard (bedslinger_midrange)",
-  "id": "PETG/PETG-Standard-bedslinger-midrange",
+  "id": "phantom_PETG/PETG-Standard-bedslinger-midrange",
   "intent": "standard",
   "layer_height": {
     "default": 0.2

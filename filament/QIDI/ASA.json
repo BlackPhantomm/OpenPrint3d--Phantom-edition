@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "QIDI/ASA",
+  "id": "phantom_QIDI/ASA",
   "nozzle": {
     "min": 245,
     "max": 265

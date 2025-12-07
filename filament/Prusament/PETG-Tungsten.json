@@ -5,7 +5,7 @@
   "name": "PETG Tungsten",
   "material": "PETG",
   "color": "Generic",
-  "id": "Prusament/PETG-Tungsten",
+  "id": "phantom_Prusament/PETG-Tungsten",
   "nozzle": {
     "min": 250,
     "max": 270

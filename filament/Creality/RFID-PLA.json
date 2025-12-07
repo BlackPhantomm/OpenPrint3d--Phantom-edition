@@ -5,7 +5,7 @@
   "name": "RFID PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Creality/RFID-PLA",
+  "id": "phantom_Creality/RFID-PLA",
   "nozzle": {
     "min": 205,
     "max": 225

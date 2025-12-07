@@ -5,7 +5,7 @@
   "name": "PLA Basic",
   "material": "PLA",
   "color": "Generic",
-  "id": "Bambu Lab/PLA-Basic",
+  "id": "phantom_Bambu Lab/PLA-Basic",
   "nozzle": {
     "min": 205,
     "max": 225

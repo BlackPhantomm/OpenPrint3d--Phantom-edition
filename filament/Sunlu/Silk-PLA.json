@@ -5,7 +5,7 @@
   "name": "Silk PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Sunlu/Silk-PLA",
+  "id": "phantom_Sunlu/Silk-PLA",
   "nozzle": {
     "min": 205,
     "max": 225

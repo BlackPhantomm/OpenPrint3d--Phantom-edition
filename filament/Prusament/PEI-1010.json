@@ -5,7 +5,7 @@
   "name": "PEI 1010",
   "material": "PEI",
   "color": "Generic",
-  "id": "Prusament/PEI-1010",
+  "id": "phantom_Prusament/PEI-1010",
   "nozzle": {
     "min": 330,
     "max": 360

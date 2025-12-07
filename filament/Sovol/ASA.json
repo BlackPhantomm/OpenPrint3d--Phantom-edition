@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Sovol/ASA",
+  "id": "phantom_Sovol/ASA",
   "nozzle": {
     "min": 245,
     "max": 265

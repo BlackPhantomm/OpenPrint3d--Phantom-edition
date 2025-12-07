@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "eSUN/ABS",
+  "id": "phantom_eSUN/ABS",
   "nozzle": {
     "min": 240,
     "max": 260

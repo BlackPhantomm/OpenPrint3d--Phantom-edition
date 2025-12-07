@@ -5,7 +5,7 @@
   "name": "PETG Recycled",
   "material": "PETG",
   "color": "Generic",
-  "id": "Prusament/PETG-Recycled",
+  "id": "phantom_Prusament/PETG-Recycled",
   "nozzle": {
     "min": 240,
     "max": 260

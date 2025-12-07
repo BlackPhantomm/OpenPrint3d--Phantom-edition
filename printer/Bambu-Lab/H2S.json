@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Bambu Lab",
   "model": "H2S",
-  "id": "Bambu Lab/H2S",
+  "id": "phantom_Bambu Lab/H2S",
   "build_volume": {
     "x": 320,
     "y": 320,

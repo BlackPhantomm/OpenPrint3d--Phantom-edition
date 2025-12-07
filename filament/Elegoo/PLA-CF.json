@@ -5,7 +5,7 @@
   "name": "PLA-CF",
   "material": "PLA-CF",
   "color": "Generic",
-  "id": "Elegoo/PLA-CF",
+  "id": "phantom_Elegoo/PLA-CF",
   "nozzle": {
     "min": 215,
     "max": 235

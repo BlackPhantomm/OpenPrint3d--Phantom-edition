@@ -5,7 +5,7 @@
   "name": "PETG",
   "material": "PETG",
   "color": "Generic",
-  "id": "Creality/PETG",
+  "id": "phantom_Creality/PETG",
   "nozzle": {
     "min": 230,
     "max": 250

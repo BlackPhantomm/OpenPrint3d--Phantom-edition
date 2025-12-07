@@ -5,7 +5,7 @@
   "name": "PLA Metal",
   "material": "PLA",
   "color": "Generic",
-  "id": "Elegoo/PLA-Metal",
+  "id": "phantom_Elegoo/PLA-Metal",
   "nozzle": {
     "min": 210,
     "max": 230

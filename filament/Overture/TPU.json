@@ -5,7 +5,7 @@
   "name": "TPU",
   "material": "TPU",
   "color": "Generic",
-  "id": "Overture/TPU",
+  "id": "phantom_Overture/TPU",
   "nozzle": {
     "min": 215,
     "max": 235

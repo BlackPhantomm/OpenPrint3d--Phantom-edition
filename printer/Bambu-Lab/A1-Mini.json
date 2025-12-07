@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Bambu Lab",
   "model": "A1-Mini",
-  "id": "Bambu Lab/A1-Mini",
+  "id": "phantom_Bambu Lab/A1-Mini",
   "build_volume": {
     "x": 180,
     "y": 180,

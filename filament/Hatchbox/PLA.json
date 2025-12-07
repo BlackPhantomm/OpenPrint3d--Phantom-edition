@@ -5,7 +5,7 @@
   "name": "PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Hatchbox/PLA",
+  "id": "phantom_Hatchbox/PLA",
   "nozzle": {
     "min": 195,
     "max": 215

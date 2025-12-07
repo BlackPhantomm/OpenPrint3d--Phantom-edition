@@ -5,7 +5,7 @@
   "name": "PC Blend",
   "material": "PC",
   "color": "Generic",
-  "id": "Prusament/PC-Blend",
+  "id": "phantom_Prusament/PC-Blend",
   "nozzle": {
     "min": 265,
     "max": 285

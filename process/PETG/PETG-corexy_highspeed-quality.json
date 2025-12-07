@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "PETG Quality (corexy_highspeed)",
-  "id": "PETG/PETG-Quality-corexy-highspeed",
+  "id": "phantom_PETG/PETG-Quality-corexy-highspeed",
   "intent": "quality",
   "layer_height": {
     "default": 0.16

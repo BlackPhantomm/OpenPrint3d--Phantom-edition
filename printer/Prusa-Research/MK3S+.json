@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Prusa Research",
   "model": "MK3S+",
-  "id": "Prusa Research/MK3S+",
+  "id": "phantom_Prusa Research/MK3S+",
   "build_volume": {
     "x": 250,
     "y": 210,

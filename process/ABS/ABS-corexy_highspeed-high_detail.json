@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "ABS High Detail (corexy_highspeed)",
-  "id": "ABS/ABS-High-Detail-corexy-highspeed",
+  "id": "phantom_ABS/ABS-High-Detail-corexy-highspeed",
   "intent": "draft",
   "layer_height": {
     "default": 0.12

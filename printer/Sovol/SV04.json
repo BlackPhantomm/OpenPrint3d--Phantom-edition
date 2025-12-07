@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Sovol",
   "model": "SV04",
-  "id": "Sovol/SV04",
+  "id": "phantom_Sovol/SV04",
   "build_volume": {
     "x": 300,
     "y": 300,

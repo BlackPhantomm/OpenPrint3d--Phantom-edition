@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "PETG Max Speed (bedslinger_midrange)",
-  "id": "PETG/PETG-Max-Speed-bedslinger-midrange",
+  "id": "phantom_PETG/PETG-Max-Speed-bedslinger-midrange",
   "intent": "draft",
   "layer_height": {
     "default": 0.32

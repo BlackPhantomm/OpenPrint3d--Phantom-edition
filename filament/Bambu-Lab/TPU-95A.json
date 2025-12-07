@@ -5,7 +5,7 @@
   "name": "TPU 95A",
   "material": "TPU",
   "color": "Generic",
-  "id": "Bambu Lab/TPU-95A",
+  "id": "phantom_Bambu Lab/TPU-95A",
   "nozzle": {
     "min": 215,
     "max": 235

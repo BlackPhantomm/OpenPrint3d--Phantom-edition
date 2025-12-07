@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "TPU High Detail (corexy_highspeed)",
-  "id": "TPU/TPU-High-Detail-corexy-highspeed",
+  "id": "phantom_TPU/TPU-High-Detail-corexy-highspeed",
   "intent": "draft",
   "layer_height": {
     "default": 0.12

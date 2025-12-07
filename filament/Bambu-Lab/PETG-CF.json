@@ -5,7 +5,7 @@
   "name": "PETG-CF",
   "material": "PETG-CF",
   "color": "Generic",
-  "id": "Bambu Lab/PETG-CF",
+  "id": "phantom_Bambu Lab/PETG-CF",
   "nozzle": {
     "min": 245,
     "max": 265

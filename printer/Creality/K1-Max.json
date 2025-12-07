@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Creality",
   "model": "K1-Max",
-  "id": "Creality/K1-Max",
+  "id": "phantom_Creality/K1-Max",
   "build_volume": {
     "x": 300,
     "y": 300,

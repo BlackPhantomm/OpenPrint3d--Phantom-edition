@@ -5,7 +5,7 @@
   "name": "High Speed PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Anycubic/High-Speed-PLA",
+  "id": "phantom_Anycubic/High-Speed-PLA",
   "nozzle": {
     "min": 215,
     "max": 235

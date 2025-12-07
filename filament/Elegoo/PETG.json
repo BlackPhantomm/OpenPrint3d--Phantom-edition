@@ -5,7 +5,7 @@
   "name": "PETG",
   "material": "PETG",
   "color": "Generic",
-  "id": "Elegoo/PETG",
+  "id": "phantom_Elegoo/PETG",
   "nozzle": {
     "min": 230,
     "max": 250

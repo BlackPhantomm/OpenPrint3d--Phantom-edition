@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Prusa Research",
   "model": "MINI+",
-  "id": "Prusa Research/MINI+",
+  "id": "phantom_Prusa Research/MINI+",
   "build_volume": {
     "x": 180,
     "y": 180,

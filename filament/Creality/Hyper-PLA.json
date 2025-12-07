@@ -5,7 +5,7 @@
   "name": "Hyper PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Creality/Hyper-PLA",
+  "id": "phantom_Creality/Hyper-PLA",
   "nozzle": {
     "min": 210,
     "max": 235

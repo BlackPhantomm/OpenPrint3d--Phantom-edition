@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Creality",
   "model": "K1",
-  "id": "Creality/K1",
+  "id": "phantom_Creality/K1",
   "build_volume": {
     "x": 220,
     "y": 220,

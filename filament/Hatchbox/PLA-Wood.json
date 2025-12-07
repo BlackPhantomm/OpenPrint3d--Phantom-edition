@@ -5,7 +5,7 @@
   "name": "PLA Wood",
   "material": "PLA",
   "color": "Generic",
-  "id": "Hatchbox/PLA-Wood",
+  "id": "phantom_Hatchbox/PLA-Wood",
   "nozzle": {
     "min": 200,
     "max": 220

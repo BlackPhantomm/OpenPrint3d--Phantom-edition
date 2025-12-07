@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "QIDI Tech",
   "model": "X-Max-3",
-  "id": "QIDI Tech/X-Max-3",
+  "id": "phantom_QIDI Tech/X-Max-3",
   "build_volume": {
     "x": 325,
     "y": 325,

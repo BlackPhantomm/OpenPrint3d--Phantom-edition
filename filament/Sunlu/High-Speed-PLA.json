@@ -5,7 +5,7 @@
   "name": "High Speed PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Sunlu/High-Speed-PLA",
+  "id": "phantom_Sunlu/High-Speed-PLA",
   "nozzle": {
     "min": 215,
     "max": 235

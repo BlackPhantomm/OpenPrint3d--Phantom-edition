@@ -5,7 +5,7 @@
   "name": "PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Prusament/PLA",
+  "id": "phantom_Prusament/PLA",
   "nozzle": {
     "min": 205,
     "max": 225

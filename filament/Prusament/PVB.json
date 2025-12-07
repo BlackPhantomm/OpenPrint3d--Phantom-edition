@@ -5,7 +5,7 @@
   "name": "PVB",
   "material": "PVB",
   "color": "Generic",
-  "id": "Prusament/PVB",
+  "id": "phantom_Prusament/PVB",
   "nozzle": {
     "min": 215,
     "max": 235

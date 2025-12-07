@@ -5,7 +5,7 @@
   "name": "Build PLA-HS",
   "material": "PLA",
   "color": "Generic",
-  "id": "MatterHackers Build Series/Build-PLA-HS",
+  "id": "phantom_MatterHackers Build Series/Build-PLA-HS",
   "nozzle": {
     "min": 215,
     "max": 235

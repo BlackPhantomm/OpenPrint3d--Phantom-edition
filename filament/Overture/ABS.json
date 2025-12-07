@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Overture/ABS",
+  "id": "phantom_Overture/ABS",
   "nozzle": {
     "min": 240,
     "max": 260

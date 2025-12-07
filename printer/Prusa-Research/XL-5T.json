@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Prusa Research",
   "model": "XL-5T",
-  "id": "Prusa Research/XL-5T",
+  "id": "phantom_Prusa Research/XL-5T",
   "build_volume": {
     "x": 360,
     "y": 360,

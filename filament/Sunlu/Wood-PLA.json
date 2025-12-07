@@ -5,7 +5,7 @@
   "name": "Wood PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Sunlu/Wood-PLA",
+  "id": "phantom_Sunlu/Wood-PLA",
   "nozzle": {
     "min": 200,
     "max": 220

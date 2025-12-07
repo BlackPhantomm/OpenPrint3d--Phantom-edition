@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Bambu Lab",
   "model": "X1-Carbon",
-  "id": "Bambu Lab/X1-Carbon",
+  "id": "phantom_Bambu Lab/X1-Carbon",
   "build_volume": {
     "x": 256,
     "y": 256,

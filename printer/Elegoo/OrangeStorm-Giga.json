@@ -3,7 +3,7 @@
   "op3d_schema_version": "0.1.0",
   "manufacturer": "Elegoo",
   "model": "OrangeStorm-Giga",
-  "id": "Elegoo/OrangeStorm-Giga",
+  "id": "phantom_Elegoo/OrangeStorm-Giga",
   "build_volume": {
     "x": 800,
     "y": 800,

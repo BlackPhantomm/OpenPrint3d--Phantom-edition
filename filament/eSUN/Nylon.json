@@ -5,7 +5,7 @@
   "name": "Nylon",
   "material": "PA",
   "color": "Generic",
-  "id": "eSUN/Nylon",
+  "id": "phantom_eSUN/Nylon",
   "nozzle": {
     "min": 250,
     "max": 270

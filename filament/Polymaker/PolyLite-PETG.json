@@ -5,7 +5,7 @@
   "name": "PolyLite PETG",
   "material": "PETG",
   "color": "Generic",
-  "id": "Polymaker/PolyLite-PETG",
+  "id": "phantom_Polymaker/PolyLite-PETG",
   "nozzle": {
     "min": 230,
     "max": 250

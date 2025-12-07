@@ -5,7 +5,7 @@
   "name": "Rapid PLA Plus",
   "material": "PLA",
   "color": "Generic",
-  "id": "Elegoo/Rapid-PLA-Plus",
+  "id": "phantom_Elegoo/Rapid-PLA-Plus",
   "nozzle": {
     "min": 215,
     "max": 235

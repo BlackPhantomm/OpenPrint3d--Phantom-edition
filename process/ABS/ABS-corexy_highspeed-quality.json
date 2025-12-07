@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "ABS Quality (corexy_highspeed)",
-  "id": "ABS/ABS-Quality-corexy-highspeed",
+  "id": "phantom_ABS/ABS-Quality-corexy-highspeed",
   "intent": "quality",
   "layer_height": {
     "default": 0.16

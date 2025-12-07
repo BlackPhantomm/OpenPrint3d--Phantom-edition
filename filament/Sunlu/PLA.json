@@ -5,7 +5,7 @@
   "name": "PLA",
   "material": "PLA",
   "color": "Generic",
-  "id": "Sunlu/PLA",
+  "id": "phantom_Sunlu/PLA",
   "nozzle": {
     "min": 195,
     "max": 215

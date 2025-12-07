@@ -5,7 +5,7 @@
   "name": "ASA",
   "material": "ASA",
   "color": "Generic",
-  "id": "Prusament/ASA",
+  "id": "phantom_Prusament/ASA",
   "nozzle": {
     "min": 250,
     "max": 270

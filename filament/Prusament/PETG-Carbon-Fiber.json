@@ -5,7 +5,7 @@
   "name": "PETG Carbon Fiber",
   "material": "PETG-CF",
   "color": "Generic",
-  "id": "Prusament/PETG-Carbon-Fiber",
+  "id": "phantom_Prusament/PETG-Carbon-Fiber",
   "nozzle": {
     "min": 250,
     "max": 270

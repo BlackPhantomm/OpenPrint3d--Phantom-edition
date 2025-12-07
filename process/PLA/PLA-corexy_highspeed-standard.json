@@ -2,7 +2,7 @@
   "op3d_schema": "process",
   "op3d_schema_version": "0.1.0",
   "name": "PLA Standard (corexy_highspeed)",
-  "id": "PLA/PLA-Standard-corexy-highspeed",
+  "id": "phantom_PLA/PLA-Standard-corexy-highspeed",
   "intent": "draft",
   "layer_height": {
     "default": 0.2

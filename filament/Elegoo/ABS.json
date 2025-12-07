@@ -5,7 +5,7 @@
   "name": "ABS",
   "material": "ABS",
   "color": "Generic",
-  "id": "Elegoo/ABS",
+  "id": "phantom_Elegoo/ABS",
   "nozzle": {
     "min": 240,
     "max": 260
