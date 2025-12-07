@@ -32,5 +32,17 @@
       },
       "fan_speed_percent": 20
     }
+  },
+  "schema_version": "1.0.0",
+  "maintainer": "BlackPhantomm",
+  "type": "filament",
+  "compatibility": {
+    "printers": [
+      "*"
+    ],
+    "nozzles": [
+      "0.4",
+      "0.6"
+    ]
   }
 }

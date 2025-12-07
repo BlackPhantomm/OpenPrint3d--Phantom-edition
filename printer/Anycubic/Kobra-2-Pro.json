@@ -29,7 +29,7 @@
   "firmware": {
     "flavor": "other"
   },
-  "notes": "Anycubic Kobra‑series baseline; tune accelerations and flow per machine.",
+  "notes": "Anycubic Kobra\u2011series baseline; tune accelerations and flow per machine.",
   "x_legacy": {
     "schema_version": "0.1",
     "type": "printer",
@@ -48,5 +48,8 @@
       "nozzle_diameter_mm": 0.4,
       "filament_diameter_mm": 1.75
     }
-  }
+  },
+  "schema_version": "1.0.0",
+  "maintainer": "BlackPhantomm",
+  "type": "printer"
 }

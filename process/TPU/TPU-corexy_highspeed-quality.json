@@ -49,5 +49,8 @@
       "travel": 320
     },
     "max_accel_mm_per_s2": 8000
-  }
+  },
+  "schema_version": "1.0.0",
+  "maintainer": "BlackPhantomm",
+  "type": "process"
 }
